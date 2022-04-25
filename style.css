@@ -1,0 +1,15 @@
+.btns-block::-webkit-scrollbar {
+  display: none;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.div-block-461::-webkit-scrollbar {
+  display: none;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.disable-play {
+  pointer-events: none;
+}
